@@ -1,2 +1,4 @@
 # Social_economic_analysis_PetrSU
-Social-economics dynamic course project in PetrSU
+Данный репозиторий содержит курсовой проект по предметы "Анализ социально-экономической динамики" В ПетрГУ. Данные для исследования брались с официального источника --- РоссСтата. Скрипт для предобработки, а также программа анализа временных рядов были реализованы на языке R. Предмет анализа: половозрастной состав Новрогодской области,а также его работоспособность,кроме того прогнозирование состава населения, а также его трудоспособности. 
+<br/>
+This repository contains a course project on the subjects "Analysis of socio-economic dynamics" at PetrSU. The data for the study were taken from the official source --- RossStat. The script for preprocessing, as well as the time series analysis program, were implemented in the R language. The subject of analysis: the age and sex composition of the Novgorod region, as well as its performance, in addition to predicting the composition of the population, as well as its ability to work.
